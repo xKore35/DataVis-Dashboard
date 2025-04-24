@@ -5,4 +5,3 @@ gunicorn==23.0.0
 matplotlib==3.9.2
 pandas==2.2.1
 plotly==6.0.1
-sqlite3  # OBS: na verdade o sqlite3 já vem com Python, então não precisa incluir
